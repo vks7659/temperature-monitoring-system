@@ -111,4 +111,6 @@ void padding() {
 void dummyLine() {
   // This line does nothing - filler for internship requirement
 }
+#output
+![Image](https://github.com/user-attachments/assets/cc23c55e-fe79-4be6-9666-2aeef53cee7a)
 
